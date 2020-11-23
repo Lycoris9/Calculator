@@ -1,1 +1,1 @@
-# Calculator
+Extras: division, powers, decimals
